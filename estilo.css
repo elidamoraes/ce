@@ -22,6 +22,7 @@ nav{
     height: 50px;
     background: black;
     margin: 0px 0px 10px 0px;
+    border-top: 1px solid white;
 }
 div{
     width: 161px;
